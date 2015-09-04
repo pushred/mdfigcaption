@@ -1,0 +1,18 @@
+{
+  "name": "mdfigcaption",
+  "version": "0.1.1",
+  "description": "MdFigCaption is plugin for Markdown-it that allows captioned images using figures and figcaption",
+  "keywords": [
+    "markdown",
+    "commonmark",
+    "markdown-it",
+    "markdown-it-plugin"
+  ],
+  "homepage": "https://github.com/funkjunky/mdfigcaption",
+  "repository": "funkjunky/mdfigcaption",
+  "license": "GNUP",
+  "main": "mdfigcaption.js",
+  "dependencies": {
+    "markdown-it-regexp": "0.4.*"
+  }
+}
